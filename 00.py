@@ -21,7 +21,7 @@ try:
 
     s.send( struct.pack('<L', int1+int2+int3+int4) )
 
-    print( str(s.recv(1024)) )
+    print( str(s.recv(1024).decode()) )
 
 except:
     print("kaboom")
