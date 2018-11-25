@@ -1,2 +1,2 @@
 # vortex
-time to earn my stripes
+just trying to earn my stripes
